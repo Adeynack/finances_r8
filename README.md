@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Quick Development
 
-Things you may want to cover:
+```sh
+bin/dev
+```
 
-* Ruby version
+## Quick Tests
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```sh
+bin/rails tests # all except system
+bin/rails db:test:prepare test test:system # all tests
+```
