@@ -1,4 +1,4 @@
-name: "finances"
+name: "finances_r8"
 
 services:
   rails-app:
