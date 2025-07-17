@@ -44,8 +44,7 @@
         "yzhang.markdown-all-in-one",
         "zombocom.dead-end-vscode",
         "anykeyh.simplecov-vscode",
-        "cweijan.vscode-database-client2",
-        "DrMerfy.overtype"
+        "cweijan.vscode-database-client2"
       ]
     }
   },
